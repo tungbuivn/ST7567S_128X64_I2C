@@ -17,7 +17,7 @@ I2C communication protocol, used to drive the ST7567S 128*64 pixels LCD.
 
 
 2024/03/18:
-  - This code tested on STM31F01CCU
+  - This code tested on STM32F401CCU
   - Refactor code to use adafruit_gfx library
 
 2022-05-28
