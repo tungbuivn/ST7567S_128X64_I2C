@@ -25,7 +25,7 @@ ST7567S_IIC Lcd;
 
 /////////////////////////////////////////////////////////
 void setup() {
-  delay(2000)
+  delay(2000);
   Lcd.Init();
    
   Lcd.fillScreen(0xff);
